@@ -34,9 +34,3 @@
 - Editable and extendable for personal use
 
 ---
-
-## 📦 How to Run
-
-1. Clone the repo or download the files:
-   ```bash
-   git clone https://github.com/sider-tech/romantic_game.git
